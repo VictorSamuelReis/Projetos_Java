@@ -1,1 +1,1 @@
-Hello World! Here you'll find my Java projects.
+Hello World! Here you'll find my Java projects/activities.
