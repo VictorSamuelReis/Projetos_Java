@@ -20,5 +20,4 @@ public class atv4 {
 		System.out.printf("O valor da area é %.4f", resultado);
 
 	}
-
 }
