@@ -1,4 +1,4 @@
-//Projeto Linguagem orientada a objeto de Victor Samuel.
+//Projeto Linguagem Orientada a Objeto de Victor Samuel.
 
 package com.mycompany.projeto_loo;
 import java.util.Scanner;
